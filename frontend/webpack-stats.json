@@ -1,0 +1,31 @@
+{
+  "status": "done",
+  "assets": {
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/c0d3/project/vue/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "js/about.js": {
+      "name": "js/about.js",
+      "path": "/home/c0d3/project/vue/frontend/dist/js/about.js",
+      "publicPath": "http://0.0.0.0:8080/js/about.js"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/c0d3/project/vue/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/c0d3/project/vue/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/"
+}
