@@ -6,10 +6,35 @@
       "path": "/home/c0d3/project/vue/frontend/dist/js/app.js",
       "publicPath": "http://0.0.0.0:8080/js/app.js"
     },
-    "js/about.js": {
-      "name": "js/about.js",
-      "path": "/home/c0d3/project/vue/frontend/dist/js/about.js",
-      "publicPath": "http://0.0.0.0:8080/js/about.js"
+    "img/logo.63028820.svg": {
+      "name": "img/logo.63028820.svg",
+      "path": "/home/c0d3/project/vue/frontend/dist/img/logo.63028820.svg",
+      "publicPath": "http://0.0.0.0:8080/img/logo.63028820.svg"
+    },
+    "fonts/materialdesignicons-webfont.5d875350.eot": {
+      "name": "fonts/materialdesignicons-webfont.5d875350.eot",
+      "path": "/home/c0d3/project/vue/frontend/dist/fonts/materialdesignicons-webfont.5d875350.eot",
+      "publicPath": "http://0.0.0.0:8080/fonts/materialdesignicons-webfont.5d875350.eot"
+    },
+    "fonts/materialdesignicons-webfont.21f691f0.ttf": {
+      "name": "fonts/materialdesignicons-webfont.21f691f0.ttf",
+      "path": "/home/c0d3/project/vue/frontend/dist/fonts/materialdesignicons-webfont.21f691f0.ttf",
+      "publicPath": "http://0.0.0.0:8080/fonts/materialdesignicons-webfont.21f691f0.ttf"
+    },
+    "fonts/materialdesignicons-webfont.54b0f60d.woff2": {
+      "name": "fonts/materialdesignicons-webfont.54b0f60d.woff2",
+      "path": "/home/c0d3/project/vue/frontend/dist/fonts/materialdesignicons-webfont.54b0f60d.woff2",
+      "publicPath": "http://0.0.0.0:8080/fonts/materialdesignicons-webfont.54b0f60d.woff2"
+    },
+    "fonts/materialdesignicons-webfont.d671cbf6.woff": {
+      "name": "fonts/materialdesignicons-webfont.d671cbf6.woff",
+      "path": "/home/c0d3/project/vue/frontend/dist/fonts/materialdesignicons-webfont.d671cbf6.woff",
+      "publicPath": "http://0.0.0.0:8080/fonts/materialdesignicons-webfont.d671cbf6.woff"
+    },
+    "js/webfontloader.js": {
+      "name": "js/webfontloader.js",
+      "path": "/home/c0d3/project/vue/frontend/dist/js/webfontloader.js",
+      "publicPath": "http://0.0.0.0:8080/js/webfontloader.js"
     },
     "favicon.ico": {
       "name": "favicon.ico",
